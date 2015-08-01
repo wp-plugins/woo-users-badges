@@ -6,7 +6,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Let the admin add some badges for the users according to a specific rules added from the admin area
+Let the admin add badges for the users according to a specific rules added from the admin area
 
 == Description ==
 
