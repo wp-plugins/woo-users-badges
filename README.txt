@@ -20,7 +20,7 @@ This plugin allow the store's admin to set rules for the user to get badges, lik
 1. Less than
 1. Less than or equal
 = Shortcode =
-1. Then add the following shortcode to any page [user_details badge=yes] and for adding the username [user_details badge=yes username=yes] or [user_details badge=yes username=yes]Heading here[/user_details]
+1. Add the following shortcode to any page [user_details badge=yes] and for adding the username [user_details badge=yes username=yes] or [user_details badge=yes username=yes]Heading here[/user_details]
 == Installation ==
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
